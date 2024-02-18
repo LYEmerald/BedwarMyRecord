@@ -1,0 +1,5 @@
+main: net.endlight.record.Main
+name: MyRecord
+version: 1.0.0
+api: 1.0.14
+author: LYEmerald
